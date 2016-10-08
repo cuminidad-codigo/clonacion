@@ -1,2 +1,2 @@
 puts "Hola, #{ARGV.first}!"
-puts"Hola isaac david te amooo"
+puts"Hola yuraima e isaac david los amooo"
